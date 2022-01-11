@@ -1,4 +1,4 @@
-import 'package:cubit/cubit.dart';
+import 'package:bloc/bloc.dart';
 import 'package:cubit_movies_example/movies/movies_state.dart';
 import 'package:cubit_movies_example/movies/repositories/movie_repository.dart';
 
